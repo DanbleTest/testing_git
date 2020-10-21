@@ -1,5 +1,5 @@
 console.log('I do something!')
 const DOG = "Junior"
 function test() {
-  console.log('No hago nada')
+  console.log('No hago nada de nada')
 }
